@@ -16,8 +16,8 @@ function yourAnimal() {
 }
 
 function add2(n) {
-const 2
-  return n + two
+n = 39
+  return n + 2
 
   // Feel free to move things around!
 }
